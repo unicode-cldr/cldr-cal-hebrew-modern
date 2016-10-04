@@ -3,8 +3,8 @@
     "fr-WF": {
       "identity": {
         "version": {
-          "_number": "$Revision: 11914 $",
-          "_cldrVersion": "29"
+          "_number": "$Revision: 12740 $",
+          "_cldrVersion": "30"
         },
         "language": "fr",
         "territory": "WF"
@@ -237,7 +237,7 @@
             "dayPeriods": {
               "format": {
                 "abbreviated": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -247,7 +247,7 @@
                   "night1": "nuit"
                 },
                 "narrow": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -269,7 +269,7 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
@@ -279,7 +279,7 @@
                   "night1": "nuit"
                 },
                 "narrow": {
-                  "midnight": "min.",
+                  "midnight": "minuit",
                   "am": "AM",
                   "noon": "midi",
                   "pm": "PM",
