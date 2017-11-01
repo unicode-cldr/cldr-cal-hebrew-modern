@@ -4,7 +4,7 @@
       "identity": {
         "version": {
           "_number": "$Revision: 13133 $",
-          "_cldrVersion": "31.0.1"
+          "_cldrVersion": "32"
         },
         "language": "de",
         "territory": "LU"
@@ -15,19 +15,19 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "Tishri",
-                  "2": "Heshvan",
-                  "3": "Kislev",
+                  "1": "Tischri",
+                  "2": "Cheschwan",
+                  "3": "Kislew",
                   "4": "Tevet",
-                  "5": "Shevat",
+                  "5": "Schevat",
                   "6": "Adar I",
                   "7": "Adar",
                   "7-yeartype-leap": "Adar II",
                   "8": "Nisan",
-                  "9": "Iyar",
-                  "10": "Sivan",
-                  "11": "Tamuz",
-                  "12": "Av",
+                  "9": "Ijjar",
+                  "10": "Siwan",
+                  "11": "Tammus",
+                  "12": "Aw",
                   "13": "Elul"
                 },
                 "narrow": {
@@ -47,37 +47,37 @@
                   "13": "13"
                 },
                 "wide": {
-                  "1": "Tishri",
-                  "2": "Heshvan",
-                  "3": "Kislev",
+                  "1": "Tischri",
+                  "2": "Cheschwan",
+                  "3": "Kislew",
                   "4": "Tevet",
-                  "5": "Shevat",
+                  "5": "Schevat",
                   "6": "Adar I",
                   "7": "Adar",
                   "7-yeartype-leap": "Adar II",
                   "8": "Nisan",
-                  "9": "Iyar",
-                  "10": "Sivan",
-                  "11": "Tamuz",
-                  "12": "Av",
+                  "9": "Ijjar",
+                  "10": "Siwan",
+                  "11": "Tammus",
+                  "12": "Aw",
                   "13": "Elul"
                 }
               },
               "stand-alone": {
                 "abbreviated": {
-                  "1": "Tishri",
-                  "2": "Heshvan",
-                  "3": "Kislev",
+                  "1": "Tischri",
+                  "2": "Cheschwan",
+                  "3": "Kislew",
                   "4": "Tevet",
-                  "5": "Shevat",
+                  "5": "Schevat",
                   "6": "Adar I",
                   "7": "Adar",
                   "7-yeartype-leap": "Adar II",
                   "8": "Nisan",
-                  "9": "Iyar",
-                  "10": "Sivan",
-                  "11": "Tamuz",
-                  "12": "Av",
+                  "9": "Ijjar",
+                  "10": "Siwan",
+                  "11": "Tammus",
+                  "12": "Aw",
                   "13": "Elul"
                 },
                 "narrow": {
@@ -97,19 +97,19 @@
                   "13": "13"
                 },
                 "wide": {
-                  "1": "Tishri",
-                  "2": "Heshvan",
-                  "3": "Kislev",
+                  "1": "Tischri",
+                  "2": "Cheschwan",
+                  "3": "Kislew",
                   "4": "Tevet",
-                  "5": "Shevat",
+                  "5": "Schevat",
                   "6": "Adar I",
                   "7": "Adar",
                   "7-yeartype-leap": "Adar II",
                   "8": "Nisan",
-                  "9": "Iyar",
-                  "10": "Sivan",
-                  "11": "Tamuz",
-                  "12": "Av",
+                  "9": "Ijjar",
+                  "10": "Siwan",
+                  "11": "Tammus",
+                  "12": "Aw",
                   "13": "Elul"
                 }
               }
@@ -238,8 +238,8 @@
               "format": {
                 "abbreviated": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -260,8 +260,8 @@
                 },
                 "wide": {
                   "midnight": "Mitternacht",
-                  "am": "vorm.",
-                  "pm": "nachm.",
+                  "am": "AM",
+                  "pm": "PM",
                   "morning1": "morgens",
                   "morning2": "vormittags",
                   "afternoon1": "mittags",
@@ -335,8 +335,13 @@
               "medium": "{1}, {0}",
               "short": "{1}, {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h:mm B",
+                "Bhms": "h:mm:ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h:mm B",
+                "EBhms": "E h:mm:ss B",
                 "Ed": "E, d.",
                 "Ehm": "E h:mm a",
                 "EHm": "E HH:mm",

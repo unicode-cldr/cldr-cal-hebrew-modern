@@ -3,8 +3,8 @@
     "fi": {
       "identity": {
         "version": {
-          "_number": "$Revision: 13259 $",
-          "_cldrVersion": "31.0.1"
+          "_number": "$Revision: 13767 $",
+          "_cldrVersion": "32"
         },
         "language": "fi"
       },
@@ -14,20 +14,20 @@
             "months": {
               "format": {
                 "abbreviated": {
-                  "1": "tišríkuuta",
-                  "2": "hešvánkuuta",
-                  "3": "kislévkuuta",
-                  "4": "tevétkuuta",
-                  "5": "ševátkuuta",
-                  "6": "adárkuuta I",
-                  "7": "adárkuuta",
-                  "7-yeartype-leap": "adárkuuta II",
-                  "8": "nisánkuuta",
-                  "9": "ijjárkuuta",
-                  "10": "sivánkuuta",
-                  "11": "tammúzkuuta",
-                  "12": "abkuuta",
-                  "13": "elúlkuuta"
+                  "1": "tišrí",
+                  "2": "hešván",
+                  "3": "kislév",
+                  "4": "tevét",
+                  "5": "ševát",
+                  "6": "adár I",
+                  "7": "adár",
+                  "7-yeartype-leap": "adár II",
+                  "8": "nisán",
+                  "9": "ijjár",
+                  "10": "siván",
+                  "11": "tammúz",
+                  "12": "ab",
+                  "13": "elúl"
                 },
                 "narrow": {
                   "1": "T",
@@ -307,7 +307,7 @@
             },
             "eras": {
               "eraNames": {
-                "0": "AM"
+                "0": "Anno Mundi"
               },
               "eraAbbr": {
                 "0": "AM"
@@ -334,13 +334,18 @@
               "medium": "{1} 'klo' {0}",
               "short": "{1} {0}",
               "availableFormats": {
+                "Bh": "h B",
+                "Bhm": "h.mm B",
+                "Bhms": "h.mm.ss B",
                 "d": "d",
                 "E": "ccc",
+                "EBhm": "E h.mm. B",
+                "EBhms": "E h.mm.ss B",
                 "Ed": "E d.",
-                "Ehm": "E h:mm a",
-                "EHm": "E HH:mm",
-                "Ehms": "E h:mm:ss a",
-                "EHms": "E HH:mm:ss",
+                "Ehm": "E h.mm a",
+                "EHm": "E HH.mm",
+                "Ehms": "E h.mm.ss a",
+                "EHms": "E HH.mm.ss",
                 "Gy": "y G",
                 "GyMMM": "LLL y G",
                 "GyMMMd": "d. MMM y G",
