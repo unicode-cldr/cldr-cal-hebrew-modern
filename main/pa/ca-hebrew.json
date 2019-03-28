@@ -3,8 +3,8 @@
     "pa": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14365 $",
-          "_cldrVersion": "34"
+          "_number": "$Revision: 14820 $",
+          "_cldrVersion": "35"
         },
         "language": "pa"
       },
@@ -76,8 +76,8 @@
                   "9": "ਅਇਯਰ",
                   "10": "ਸਿਵਾਨ",
                   "11": "ਤਾਮੁਜ਼",
-                  "12": "Av",
-                  "13": "Elul"
+                  "12": "ਅਵ",
+                  "13": "ਏਲੁਲ"
                 },
                 "narrow": {
                   "1": "1",
@@ -381,6 +381,15 @@
               },
               "intervalFormats": {
                 "intervalFormatFallback": "{0} – {1}",
+                "Bh": {
+                  "B": "h B – h B",
+                  "h": "h–h B"
+                },
+                "Bhm": {
+                  "B": "h:mm B – h:mm B",
+                  "h": "h:mm–h:mm B",
+                  "m": "h:mm–h:mm B"
+                },
                 "d": {
                   "d": "d – d"
                 },
