@@ -3,8 +3,7 @@
     "it": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14842 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "it"
       },
@@ -241,7 +240,7 @@
                   "noon": "mezzogiorno",
                   "pm": "PM",
                   "morning1": "di mattina",
-                  "afternoon1": "del pomeriggio",
+                  "afternoon1": "di pomeriggio",
                   "evening1": "di sera",
                   "night1": "di notte"
                 },
@@ -251,7 +250,7 @@
                   "noon": "mezzogiorno",
                   "pm": "p.",
                   "morning1": "di mattina",
-                  "afternoon1": "del pomeriggio",
+                  "afternoon1": "di pomeriggio",
                   "evening1": "di sera",
                   "night1": "di notte"
                 },

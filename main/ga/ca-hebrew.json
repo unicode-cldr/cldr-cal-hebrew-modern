@@ -3,8 +3,7 @@
     "ga": {
       "identity": {
         "version": {
-          "_number": "$Revision: 14982 $",
-          "_cldrVersion": "35.1"
+          "_cldrVersion": "36"
         },
         "language": "ga"
       },
@@ -240,8 +239,8 @@
                   "pm": "i.n."
                 },
                 "narrow": {
-                  "am": "a",
-                  "pm": "p"
+                  "am": "r.n.",
+                  "pm": "i.n."
                 },
                 "wide": {
                   "am": "r.n.",
@@ -250,16 +249,16 @@
               },
               "stand-alone": {
                 "abbreviated": {
-                  "am": "a.m.",
-                  "pm": "p.m."
+                  "am": "r.n.",
+                  "pm": "i.n."
                 },
                 "narrow": {
-                  "am": "a",
-                  "pm": "p"
+                  "am": "r.n.",
+                  "pm": "i.n."
                 },
                 "wide": {
-                  "am": "a.m.",
-                  "pm": "p.m."
+                  "am": "r.n.",
+                  "pm": "i.n."
                 }
               }
             },
